@@ -3,6 +3,7 @@
     padding: 0px;
     margin: 0px;  
     max-width: 1100px;  
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #cabeca {
@@ -15,7 +16,7 @@
 #devconnect{
     color: white;
     font-size: 26px;
-    padding-left: 40px;
+    padding-left: 50px;
 }
 
 .linkmenu{
@@ -28,4 +29,30 @@
 }
 #linkmenuum{
     padding-left: 400px;
+}
+
+#sectapresenta{
+    background-color: #163A5F;
+    min-height: 350xpx;
+    display: flex;
+    flex-direction: column;
+    max-width: 1100px;
+    align-items: start;
+    padding-left: 50px;
+}
+#coisas{
+  color:  #F5A623;
+  font-size: 14px;
+
+}
+h1{
+    color: white;
+    font-size: 40px;
+    max-width: 750px;
+}
+#descridoh1{
+    color: #E2E8F0;
+    font-size: 16px;
+    max-width: 700px;
+    padding-top: 15px;
 }
